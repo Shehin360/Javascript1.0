@@ -14,3 +14,5 @@ mode.addEventListener('click', () => {
     }
     console.log(currentMode);
 });
+
+
